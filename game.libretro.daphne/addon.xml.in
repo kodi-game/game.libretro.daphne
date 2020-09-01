@@ -2,7 +2,7 @@
 <addon id="game.libretro.daphne"
 		name="Arcade (Daphne)"
 		version="0.0.1.2"
-		provider-name="Libretro">
+		provider-name="Matt Ownby">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
