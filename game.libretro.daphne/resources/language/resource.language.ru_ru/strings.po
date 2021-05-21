@@ -22,17 +22,17 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Supported Cheats"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Emulate LaserDisc seeks"
-msgstr ""
-
-msgctxt "#30003"
 msgid "Invert controls (if supported)"
 msgstr ""
 
-msgctxt "#30004"
+msgctxt "#30002"
 msgid "Overlay scoreboard (if supported)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Emulate LaserDisc seeks"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Supported Cheats"
 msgstr ""
