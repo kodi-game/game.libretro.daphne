@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="daphne_cheat" values="disable|enable" default="disable"/>
-		<setting label="30002" type="select" id="daphne_emulate_seek" values="enable|disable" default="enable"/>
-		<setting label="30003" type="select" id="daphne_invertctrl" values="enable|disable" default="enable"/>
-		<setting label="30004" type="select" id="daphne_useoverlaysb" values="enable|disable" default="enable"/>
+		<setting label="30001" type="select" id="daphne_invertctrl" values="enable|disable" default="enable"/>
+		<setting label="30002" type="select" id="daphne_useoverlaysb" values="enable|disable" default="enable"/>
+		<setting label="30003" type="select" id="daphne_emulate_seek" values="enable|disable" default="enable"/>
+		<setting label="30004" type="select" id="daphne_cheat" values="disable|enable" default="disable"/>
 	</category>
 </settings>
