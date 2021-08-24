@@ -1,1 +1,1 @@
-daphne https://github.com/libretro/daphne/archive/0a7e6f0fda1348144369ce0a889876df60263e8f.zip
+daphne https://github.com/libretro/daphne/archive/0a7e6f0fda1348144369ce0a889876df60263e8f.tar.gz
