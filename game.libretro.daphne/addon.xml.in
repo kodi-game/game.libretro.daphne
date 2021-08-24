@@ -14,14 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .zip</description>
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.daphne</source>
 		<summary lang="en_GB">Arcade (Daphne)</summary>
-		<description lang="en_GB">DAPHNE is a multi-arcade LaserDisc emulator.
-
-Supported files: .zip</description>
+		<description lang="en_GB">DAPHNE is a multi-arcade LaserDisc emulator.[CR][CR]Supported files: .zip</description>
 	</extension>
 </addon>

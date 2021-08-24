@@ -21,9 +21,7 @@ msgid "Arcade (Daphne)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "DAPHNE is a multi-arcade LaserDisc emulator.
-
-Supported files: .zip"
+msgid "DAPHNE is a multi-arcade LaserDisc emulator.[CR][CR]Supported files: .zip"
 msgstr ""
 
 msgctxt "#30000"
