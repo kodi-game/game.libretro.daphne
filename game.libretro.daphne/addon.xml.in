@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.daphne</source>
 		<summary lang="en_GB">Arcade (Daphne)</summary>
-		<description lang="en_GB">DAPHNE is a multi-arcade LaserDisc emulator.[CR][CR]Supported files: .zip</description>
+		<description lang="en_GB">DAPHNE is a multi-arcade LaserDisc emulator that lets one play the original LaserDisc version on a PC.</description>
 	</extension>
 </addon>
