@@ -24,6 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Arcade (Daphne)</summary>
+		<description lang="da_DK">DAPHNE er en multi-arcade LaserDisc-emulator, der muliggør afspilning af den originale LaserDisc-version på en pc.</description>
 		<description lang="en_GB">DAPHNE is a multi-arcade LaserDisc emulator that lets one play the original LaserDisc version on a PC.</description>
 	</extension>
 </addon>
