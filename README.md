@@ -13,7 +13,7 @@ GPLv2+
 
 ### Icon
 
-![Icon](game.libretro.daphne/resources/icon.png)
+![Arcade (Daphne) icon](game.libretro.daphne/resources/icon.png)
 
 ### Fanart
 
@@ -21,5 +21,5 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.daphne/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.daphne/resources/screenshot-02.jpg)
+![Arcade (Daphne) screenshot](game.libretro.daphne/resources/screenshot-01.jpg)
+![Arcade (Daphne) screenshot](game.libretro.daphne/resources/screenshot-02.jpg)
