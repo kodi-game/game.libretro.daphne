@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.daphne.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.daphne)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.daphne?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-daphne)
-
 # Arcade (Daphne)
 
 ### Description
