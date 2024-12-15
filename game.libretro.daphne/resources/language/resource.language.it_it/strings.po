@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "DAPHNE is a multi-arcade LaserDisc emulator that lets one play the original LaserDisc version on a PC."
 msgstr "DAPHNE è un emulatore LaserDisc multi-arcade che consente di riprodurre la versione originale di LaserDisc su un PC."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Invert controls (if supported)"
 msgstr "Inverti controlli (se supportato)"
@@ -44,3 +40,7 @@ msgstr "Emula ricerche LaserDisc"
 msgctxt "#30004"
 msgid "Supported Cheats"
 msgstr "Trucchi supportati"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
