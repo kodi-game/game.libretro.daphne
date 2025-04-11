@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.daphne\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 03:40i\n"
-"PO-Revision-Date: 2025-04-06 19:02+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-daphne/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,19 +27,19 @@ msgstr "DAPHNE är en LaserDisc-emulator som låter dig spela den ursprungliga L
 
 msgctxt "#30001"
 msgid "Invert controls (if supported)"
-msgstr ""
+msgstr "Invertera kontroller (om det stöds)"
 
 msgctxt "#30002"
 msgid "Overlay scoreboard (if supported)"
-msgstr ""
+msgstr "Poänglista som överlägg (om det stöds)"
 
 msgctxt "#30003"
 msgid "Emulate LaserDisc seeks"
-msgstr ""
+msgstr "Emulera LaserDisc-sökningar"
 
 msgctxt "#30004"
 msgid "Supported Cheats"
-msgstr ""
+msgstr "Fusk som stöds"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
